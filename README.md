@@ -20,4 +20,4 @@ https://blog.obilet.com/wp-content/uploads/2023/07/0anagorsel-1-1024x683.jpeg
 
 
 
-![snake gif](https://github.com/yilmazisa/yilmazisa/blob/output/github-contribution-grid-snake.gif)
+
